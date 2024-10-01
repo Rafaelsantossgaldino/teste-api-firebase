@@ -13,9 +13,10 @@ Navegue até a aba *Contas de Servicos*, e clique no botao *Gerar nova chave pri
 
 ![image](https://github.com/user-attachments/assets/ebc0a6fb-9dc2-433b-97e3-043d3d73424a)
 
-No meu caso eu coloquei em src/serviceAccountKey2.json
+No meu caso eu coloquei em src/serviceKey.json
 
-![image](https://github.com/user-attachments/assets/8ed4a002-dfed-472d-9c6f-357dc52d1af0)
+![image](https://github.com/user-attachments/assets/81f4ee17-9717-4d18-a314-d5a3599cde68)
+
 
 # VARIAVEIS QUE DEVE SER COLOCADO NO ARQUIVO .env 
 
