@@ -17,10 +17,16 @@ No meu caso eu coloquei em src/serviceAccountKey2.json
 
 ![image](https://github.com/user-attachments/assets/8ed4a002-dfed-472d-9c6f-357dc52d1af0)
 
+# VARIAVEIS QUE DEVE SER COLOCADO NO ARQUIVO .env 
+
+PORT=3000
+
+GOOGLE_CLOUD_PROJECT=task-api-b464a
+
+DATABASE_URL="https://task-api-b464a-default-rtdb.firebaseio.com" <<< Coloque o endereco do seu banco do RealTime Database
 
 
-Instruções para instalar e configurar o projeto.
-
+# Instruções para instalar e configurar o projeto.
 ```bash
 # Comando para instalar dependências
 npm install
