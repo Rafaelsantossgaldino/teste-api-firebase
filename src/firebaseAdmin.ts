@@ -1,5 +1,5 @@
 import admin from 'firebase-admin';
-import serviceAccount from './serviceAccountKey2.json';
+import serviceAccount from './serviceKey.json';
 require('dotenv').config();
 
 const firebaseAdminApp = admin.apps.length === 0 ? admin.initializeApp({
